@@ -18,6 +18,11 @@ https://github.com/bbatsov/clojure-style-guide
 emacs lisp style guide btw
 https://github.com/bbatsov/emacs-lisp-style-guide
 
+great video
+https://sachachua.com/blog/2015/04/2015-04-08-emacs-lisp-development-tips-with-john-wiegley/
+don't miss out on edebug it is amazing
+press p in edebug to flash the current point
+
 
 # todo
 
